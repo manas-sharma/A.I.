@@ -64,10 +64,12 @@ def multiVariable():
     theta = gradientDescent(X,y,theta,learningRate,maxIterations)
     print('Final value of Cost Function(Multi-Variable): ',computeCost(X, y, theta))
 
+#Single Variable Linear Regression
 data = np.loadtxt('./ex1/ex1data1.txt', dtype='float', delimiter=',')
 n = len(data)
 oneVariable()
 
+#Multi-Variable Linear Regression
 data = np.loadtxt('./ex1/ex1data2.txt', dtype='float', delimiter=',')
 n = len(data)
 multiVariable()
