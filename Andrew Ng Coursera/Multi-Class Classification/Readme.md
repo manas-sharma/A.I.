@@ -1,0 +1,1 @@
+This is a Python implementation of Multi-Class Classification using Logistic Regression in once case and Neural Networks in the other. It is based on Andrew Ng's Machine Learning course material on Coursera. The pdf contains the theory and instructions related to the exercise.
