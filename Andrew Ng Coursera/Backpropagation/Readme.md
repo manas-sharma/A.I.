@@ -1,0 +1,1 @@
+This is a Python implementation of Backpropagation in Neural Networks. It is based on Andrew Ng's Machine Learning course material on Coursera. The IPython notebook simply contains the implementation. For detailed instructions related to the exercise, please check the pdf file.
