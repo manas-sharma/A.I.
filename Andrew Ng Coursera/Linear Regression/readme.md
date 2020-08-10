@@ -1,1 +1,1 @@
-This is a Python implementation of single and multi variable linear regression based on Andrew Ng's Machine Learning course material on Coursera. The pdf contains the theory and instructions related to the exercise. 
+This is a Python implementation of single and multi variable linear regression based on Andrew Ng's Machine Learning course material on Coursera. The IPython notebook simply contains the implementation. For detailed instructions related to the exercise, please check the pdf file.
