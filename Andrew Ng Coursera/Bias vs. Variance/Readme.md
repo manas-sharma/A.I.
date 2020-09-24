@@ -1,0 +1,1 @@
+This is a Python implementation of Regularized Linear Regression and Bias v.s. Variance, based on Andrew Ng's Machine Learning course material on Coursera. The IPython notebook contains the implementation and for detailed instructions related to the exercise, please check the pdf file.
